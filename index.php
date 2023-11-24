@@ -49,7 +49,7 @@
             </div>
             <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-right w3-xlarge w3-hide-large" title="Close Menu">x</a>
         </div>
-		<div class="w3-main w3-container" style="margin-left:270px;margin-top:130px;">
+		<div class="w3-main w3-container" style="margin: 130px 275px;">
 
             <div class="w3-panel w3-padding-large w3-card-4 w3-light-grey" >
 
